@@ -6,5 +6,5 @@
 *Some may be fully documented some are partial and some are not.*
 
 *We also search the internet for some solutions and answers to our problems.*
-*Here maybe some of that.*
+*Here may be some of that.*
 *I hope you find some useful and apply it to your projects, but please, read the disclaimer first.*
